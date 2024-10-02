@@ -13,9 +13,9 @@
 - **版本控制**：Git、SVN、VSS
   
 ## 社交主页
-GitHub：https://github.com/xiangyisheng  
-Gitee：https://gitee.com/xiangyisheng  
-语雀：https://www.yuque.com/xiangyisheng  
+- **GitHub**：[https://github.com/xiangyisheng](https://github.com/xiangyisheng "我的 GitHub 主页")
+- **Gitee**：[https://gitee.com/xiangyisheng](https://gitee.com/xiangyisheng "我的 Gitee 主页")
+- **语雀**：[https://www.yuque.com/xiangyisheng](https://www.yuque.com/xiangyisheng "我的语雀主页")
 
 ## 兴趣爱好
 - 打羽毛球
