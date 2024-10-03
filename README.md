@@ -3,12 +3,12 @@
 
 ## 专业技能
 - **C#基础**：泛型、多线程、反射、委托、LINQ等
-- **跨平台**：.Net Core、.Net 8、Xamarin、MAUI
+- **跨平台开发**：.Net Core、.Net 8、Xamarin、MAUI
 - **设计思想**：OOP、AOP、MVVM、设计模式、DDD领域驱动设计
 - **框架**：MVC5、EF、EF Core、Dapper、SqlSuger、ABP
-- **分布式**：Redis、RabbitMQ、Quartz
+- **分布式技术**：Redis、RabbitMQ、Quartz
 - **数据库**：MSSQL、MySQL、ClickHouse
-- **前端**：HTML/CSS、JavaScript、Jquery、BootStrap、KendoUI、Vue、React、TypeScript
+- **前端开发**：HTML/CSS、JavaScript、Jquery、BootStrap、KendoUI、Vue、React、TypeScript
 - **桌面应用开发**：WPF、WinForms
 - **版本控制**：Git、SVN、VSS
   
